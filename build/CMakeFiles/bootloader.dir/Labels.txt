@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/humankey/workspace/esp_projects/test_dht11/build/CMakeFiles/bootloader
+/home/humankey/workspace/esp_projects/test_dht11/build/CMakeFiles/bootloader.rule
+/home/humankey/workspace/esp_projects/test_dht11/build/CMakeFiles/bootloader-complete.rule
+/home/humankey/workspace/esp_projects/test_dht11/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/humankey/workspace/esp_projects/test_dht11/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/humankey/workspace/esp_projects/test_dht11/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/humankey/workspace/esp_projects/test_dht11/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/humankey/workspace/esp_projects/test_dht11/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/humankey/workspace/esp_projects/test_dht11/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/humankey/workspace/esp_projects/test_dht11/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
