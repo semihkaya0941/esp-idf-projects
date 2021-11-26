@@ -1,8 +1,9 @@
 #include <stdio.h>
-#include <freertos/FreeRTOS.h>
-#include <freertos/task.h>
-#include <dht.h>
+#include "freertos/FreeRTOS.h"
+#include "freertos/task.h"
+#include "../core/inc/core/dht.h"
 #include "esp_log.h"
+
 
 static const dht_sensor_type_t sensor_type = DHT_TYPE_DHT11;
 #if defined(CONFIG_IDF_TARGET_ESP8266)

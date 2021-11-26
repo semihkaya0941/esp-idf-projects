@@ -1,6 +1,0 @@
-source "/home/humankey/esp/esp-idf/components/app_update/Kconfig.projbuild"
-source "/home/humankey/esp/esp-idf/components/bootloader/Kconfig.projbuild"
-source "/home/humankey/esp/esp-idf/components/esp_rom/Kconfig.projbuild"
-source "/home/humankey/esp/esp-idf/components/esptool_py/Kconfig.projbuild"
-source "/home/humankey/esp/esp-idf/components/partition_table/Kconfig.projbuild"
-source "/home/humankey/workspace/esp_projects/test_dht11/main/Kconfig.projbuild"

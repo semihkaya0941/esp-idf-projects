@@ -10,7 +10,9 @@ set(sources
 
 idf_component_register(
     SRCS ${sources}
-    INCLUDE_DIRS "inc"
+    INCLUDE_DIRS . inc inc/core
     REQUIRES driver
             freertos
+            log
+            esp_common
 )

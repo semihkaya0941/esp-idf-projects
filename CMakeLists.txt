@@ -2,7 +2,8 @@
 # CMakeLists in this exact order for cmake to work correctly
 cmake_minimum_required(VERSION 3.5)
 
-set(EXTRA_COMPONENT_DIRS $ENV{IDF_PATH}/home/humankey/workspace/esp_projects/test_dht11/core)
+#set(EXTRA_COMPONENT_DIRS $ENV{IDF_PATH}/home/humankey/workspace/esp_projects/test_dht11/core)
+set(EXTRA_COMPONENT_DIRS core)
 
 include($ENV{IDF_PATH}/tools/cmake/project.cmake)
 project(test_dht11)
